@@ -1,0 +1,37 @@
+# Node modules
+/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package-lock
+/package-lock.json
+
+# environment files
+.env
+
+# Build output
+/dist
+/build
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Optional, for certain frameworks
+/.next/
+.cache/
+out/
+
+# Coverage output
+/coverage/
+
+# System files
+*.swp
+*.swo
